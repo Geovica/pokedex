@@ -34,4 +34,5 @@ yarn test:unit
 Link: https://hardcore-saha-26ad91.netlify.app/
 
 API Used: [pokeapi](https://pokeapi.co/api/v2/pokemon/)
+
 Image URL: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/
