@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Pokemon's</h1>
+    <h1>Pokemons</h1>
     <PokemonSearch 
       :apiUrl="apiUrl" 
       @setPokemonUrl="setPokemonUrl" />
