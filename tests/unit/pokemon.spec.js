@@ -197,7 +197,7 @@ describe('Pokemon.vue', () => {
   })
 })
 
-describe('Testing classes and style', () => {
+describe('Testing classes and style Pokemon.vue', () => {
   const wrapper = shallowMount(Pokemon);
   it('should have the class container', () => {
       expect(wrapper.classes()).toContain('container');
